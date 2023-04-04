@@ -1,10 +1,10 @@
 # I'm ✨Mid✨
 
-**M**exican backend developer focused in TypeScript and JavaScript.
+Python, TypeScript and JavaScript developer.
 
 ## Some projects:
-- **T-API**: Rest public API. ([GitHub](https://github.com/Miduwu/T-API.js)) | ([Package](https://npmjs.com/package/tokyo-api.ts))
-- **Tokyo | トキョ**: Powerful discord bot. ([Invite](https://tokyo.miduwu.ml/invite)) | ([Support](https://tokyo.miduwu.ml/discord))
-- **Timeouts**: Persistent timeouts package. ([GitHub](https://github.com/Miduwu/timeouts.ts)) | ([Package](https://npmjs.com/package/timeouts.ts-dev))
+- **APY**: Rest public API. ([Link](https://api.munlai.fun))
+- **Tokyo | トキョ**: Powerful discord bot. ([Invite]([https://tokyo.miduwu.ga/invite](https://top.gg/bot/778085817510789120/invite))) | ([Support](https://tokyo.miduwu.ml/discord))
+- **Timeouts**: Persistent timeouts package. ([GitHub](https://github.com/Miduwu/midou.ts)) | ([Package](https://npmjs.com/package/midou.ts))
 - **Midb**: Powerful JSON-based database with tables. ([GitHub](https://github.com/Miduwu/midb)) | ([Package](https://npmjs.com/package/midb))
-- **TokyoScript**: String-based functions for discord bots. ([GitHub](https://github.com/Miduwu/tokyo-script.ts)) | ([Package](https://npmjs.com/package/@midowo/tokyo-script.ts))
+- **Easy-api.ts**: String-based functions APIs creation. ([Package](https://npmjs.com/package/easy-api.ts))
