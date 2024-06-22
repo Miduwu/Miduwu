@@ -6,7 +6,7 @@
 - ✨ CEO & Developer of [easy-api.ts](https://npmjs.com/package/easy-api.ts)
 - 📖 Co-CEO & Developer of [Erine](https://npmjs.com/package/erine)
 - 🌱 I’m currently learning **Golang & React**
-- 📫 How to reach me **@duh.itsmid** (Discord)
+- 📫 How to reach me **@mmiiidd** (Discord)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
