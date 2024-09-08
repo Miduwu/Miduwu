@@ -2,11 +2,11 @@
 <h3 align="center">A passionate backend developer from Mexico 🌮</h3>
 
 
-- 🎓 CEO & Developer in [Moonlight Group](https://discord.com/invite/3pT2WHG9EG)
 - ✨ CEO & Developer of [easy-api.ts](https://npmjs.com/package/easy-api.ts)
+- 🎓 Co-CEO & Developer in [Moonlight Group](https://discord.com/invite/3pT2WHG9EG)
 - 📖 Co-CEO & Developer of [Erine](https://npmjs.com/package/erine)
 - 🌱 I’m currently learning **Golang & React**
-- 📫 How to reach me **@mmiiidd** (Discord)
+- 📫 How to reach me **@idkmatti** (Discord)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
